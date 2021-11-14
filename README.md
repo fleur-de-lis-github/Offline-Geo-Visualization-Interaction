@@ -1,4 +1,4 @@
-# Offline-Interactive-World-Map
+# Offline-Geo Visualization & Interaction
 
 # Unfolding Maps
 
