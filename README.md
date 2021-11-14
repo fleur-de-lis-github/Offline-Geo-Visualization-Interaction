@@ -1,4 +1,4 @@
-# Offline-Geo Visualization & Interaction
+# Scintilla: Offline-Geo Visualization & Interaction
 
 # Unfolding Maps
 
