@@ -1,5 +1,9 @@
 # Scintilla: Offline-Geo Visualization & Interaction
 
+## Event: Technica 2021: Technica is the world’s largest hackathon for underrepresented genders, hosted annually by students at the University of Maryland. This year an unique opportunity was provided as they pioneered a a hybrid model, offering the Technica experience both in-person and online with record attendance, hosting 2002 hackers, 297 in-person and 1705 virtually from across 43 US states, 30 countries, and 5 continents, resulting in the most inclusive and accessible 
+
+:black_nib: https://gotechnica.org/
+
 # Unfolding Maps
 
 [![Java Platform](https://img.shields.io/badge/platform-Java-blue.svg)](https://docs.oracle.com/en/java/)
